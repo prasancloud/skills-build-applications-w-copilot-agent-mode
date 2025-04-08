@@ -111,4 +111,4 @@ CORS_ALLOW_METHODS = [
 CORS_ALLOW_HEADERS = ['*']
 
 # Add the codespace Django REST API endpoint suffix
-CODESPACE_API_SUFFIX = '/api/v1/ideal-spork-gpj67v77wxv29wvp/'
+CODESPACE_API_SUFFIX = '/api/v1/ideal-spork-gpj67v77wxv29wvp'
